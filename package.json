@@ -49,6 +49,7 @@
     "babel-preset-react": "^6.1.18",
     "bootstrap": "^4.0.0-alpha.5",
     "chokidar": "^3.4.0",
+    "chunks-webpack-plugin": "^6.1.0",
     "clean-webpack-plugin": "^0.1.16",
     "copy-webpack-plugin": "^4.0.1",
     "cross-env": "^5.0.1",
