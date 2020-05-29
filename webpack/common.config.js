@@ -38,10 +38,10 @@ module.exports = {
     ],
   },
 
-  plugins: [
-    new SplitChunksPlugin({
-      name: ['app', 'vendor'],
-      minChunks: Infinity,
-    }),
-  ],
+  //   plugins: [
+  //     new SplitChunksPlugin({
+  //       name: ['app', 'vendor'],
+  //       minChunks: Infinity,
+  //     }),
+  //   ],
 };
